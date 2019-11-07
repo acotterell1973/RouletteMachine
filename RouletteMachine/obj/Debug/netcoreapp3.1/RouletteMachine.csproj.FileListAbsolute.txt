@@ -1,0 +1,11 @@
+C:\git\Roulette\RouletteMachine\obj\Debug\netcoreapp3.1\RouletteMachine.csprojAssemblyReference.cache
+C:\git\Roulette\RouletteMachine\obj\Debug\netcoreapp3.1\RouletteMachine.AssemblyInfoInputs.cache
+C:\git\Roulette\RouletteMachine\obj\Debug\netcoreapp3.1\RouletteMachine.AssemblyInfo.cs
+C:\git\Roulette\RouletteMachine\bin\Debug\netcoreapp3.1\RouletteMachine.exe
+C:\git\Roulette\RouletteMachine\bin\Debug\netcoreapp3.1\RouletteMachine.deps.json
+C:\git\Roulette\RouletteMachine\bin\Debug\netcoreapp3.1\RouletteMachine.runtimeconfig.json
+C:\git\Roulette\RouletteMachine\bin\Debug\netcoreapp3.1\RouletteMachine.runtimeconfig.dev.json
+C:\git\Roulette\RouletteMachine\bin\Debug\netcoreapp3.1\RouletteMachine.dll
+C:\git\Roulette\RouletteMachine\bin\Debug\netcoreapp3.1\RouletteMachine.pdb
+C:\git\Roulette\RouletteMachine\obj\Debug\netcoreapp3.1\RouletteMachine.dll
+C:\git\Roulette\RouletteMachine\obj\Debug\netcoreapp3.1\RouletteMachine.pdb
